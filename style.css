@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://img.freepik.com/free-vector/castle-building-fairytale-sky-with-clouds_24911-52543.jpg?size=626&ext=jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+main { 
+    height: 500px;
+}
+
+button {
+    width: 200px;
+    height: 100px;
+    font-size: 20px;
+}
